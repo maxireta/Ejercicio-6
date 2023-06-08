@@ -1,0 +1,38 @@
+[
+    {
+        "marca": "Volkswagen",
+        "modelo": "Gol",
+        "cantidad_puertas": 5,
+        "color": "Negro",
+        "precio_base": 18000.0,
+        "patente": "XYZ789",
+        "anio": 2012,
+        "kilometraje": 95000
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Corsa",
+        "cantidad_puertas": 3,
+        "color": "Gris",
+        "precio_base": 15000.0,
+        "patente": "ABC123",
+        "anio": 2015,
+        "kilometraje": 80000
+    },
+    {
+        "marca": "Fiat",
+        "modelo": "Palio",
+        "cantidad_puertas": 5,
+        "color": "Azul",
+        "precio_base": 20000.0,
+        "version": "base"
+    },
+    {
+        "marca": "Fiat",
+        "modelo": "Focus",
+        "cantidad_puertas": 4,
+        "color": "Rojo",
+        "precio_base": 25000.0,
+        "version": "full"
+    }
+]
